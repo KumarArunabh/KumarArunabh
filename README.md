@@ -1,20 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=ARUNABH+GUPTA"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:000000,100:001F3F&text=%EF%BC%A1%EF%BC%B2%EF%BC%B5%EF%BC%AE%EF%BC%A1%EF%BC%A2%EF%BC%A8%20%EF%BC%A7%EF%BC%B5%EF%BC%B0%EF%BC%B4%EF%BC%A1&fontColor=00FFFF&fontSize=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Python+Developer;AI+%26+Machine+Learning;Backend+Developer;Data+Analytics"/>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Software+Engineer;Python+Developer;AI+%26+Machine+Learning;Backend+Developer;Data+Analytics"/>
+
+<br>
 
 ### Software Engineer • Python Developer • AI & Machine Learning
 
 <img src="https://komarev.com/ghpvc/?username=KumarArunabh&label=Profile%20Views&color=00FFFF&style=flat"/>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 </div>
+
+---
 
 <div align="center">
 
-## ⚡ ABOUT ME ⚡
+# ⚡ ABOUT ME ⚡
 
 </div>
 
@@ -45,25 +49,25 @@ class ArunabhGupta:
     status = "Open to Software Engineering Opportunities"
 ```
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 <div align="center">
 
-## ⚡ TECH STACK ⚡
+# ⚡ TECH STACK ⚡
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Python;Machine+Learning;Cloud+Computing;Backend+Development;Data+Analytics"/>
 
-<br>
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,mysql,git,github,docker,aws,vscode&perline=6"/>
 
 </div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 <div align="center">
 
-## 🚀 FEATURED PROJECTS 🚀
+# 🚀 FEATURED PROJECTS 🚀
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Machine+Learning;Artificial+Intelligence;Automation;Software+Engineering"/>
 
@@ -71,7 +75,7 @@ class ArunabhGupta:
 
 ### 🫀 Heart Disease Prediction
 
-Machine learning application developed using Python and Scikit-Learn for disease prediction through preprocessing, feature engineering, model training and evaluation.
+Machine Learning application developed using Python and Scikit-Learn for disease prediction through preprocessing, feature engineering, model training, and evaluation.
 
 ### 🤖 Jarvis AI Assistant
 
@@ -81,13 +85,13 @@ Voice-enabled virtual assistant developed using Python with speech recognition, 
 
 NLP-powered chatbot built using Python and machine learning techniques to generate intelligent and contextual responses.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 <div align="center">
 
-## 🏆 CERTIFICATIONS 🏆
+# 🏆 CERTIFICATIONS 🏆
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Cloud;Cybersecurity;Artificial+Intelligence"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&lines=Cloud;Cybersecurity;Artificial+Intelligence"/>
 
 </div>
 
@@ -95,11 +99,11 @@ NLP-powered chatbot built using Python and machine learning techniques to genera
 - TCS Cybersecurity Analyst Job Simulation (IAM)
 - Python NumPy for Data Analysis
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 <div align="center">
 
-## 📊 GITHUB ANALYTICS 📊
+# 📊 GITHUB ANALYTICS 📊
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Contribution+Metrics;Repository+Statistics;Development+Activity"/>
 
@@ -115,11 +119,11 @@ NLP-powered chatbot built using Python and machine learning techniques to genera
 
 </div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 <div align="center">
 
-## 🌐 CONNECT 🌐
+# 🌐 CONNECT 🌐
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&lines=Let's+Connect;Open+to+Opportunities"/>
 
@@ -139,7 +143,7 @@ NLP-powered chatbot built using Python and machine learning techniques to genera
 
 </div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 <div align="center">
 
